@@ -1,0 +1,7 @@
+streamlit
+yfinance
+python-dotenv
+fpdf
+langchain
+openai
+plotly
