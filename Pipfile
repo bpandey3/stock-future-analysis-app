@@ -1,22 +1,16 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
 
 [packages]
-langchain = "*"
-langchain-openai = "*"
-langchainhub = "*"
-black = "*"
-python-dotenv = "*"
-langchain-community = "*"
-langchain-core = "*"
-tweepy = "*"
-flask = "*"
 streamlit = "*"
-pytest = "*"
-pytest-mock = "*"
-pytest-cov = "*"
+yfinance = "*"
+python-dotenv = "*"
+fpdf = "*"
+langchain = "*"
+openai = "*"
+plotly = "*"
 
 [dev-packages]
 
